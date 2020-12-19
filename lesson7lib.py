@@ -21,6 +21,8 @@ def print_line_segment(line_segment):
     print(f"Отрезок AB: {line_segment['A']}, {line_segment['B']}")
 
 
+
+
 number = random.randint(1, 10)
 # number = rnd.randint(1, 10)
 # number2 = randint(1, 10)

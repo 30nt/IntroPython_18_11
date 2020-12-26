@@ -73,6 +73,8 @@ def create_randome_txt_data(min_len=100, max_len=1000):
 
 print("__name__ >>>", __name__)
 
+number =150
+
 if __name__ == "__main__":
     txt_data = create_randome_txt_data()
     print("!!!!!!!!!!!!!!!", txt_data)

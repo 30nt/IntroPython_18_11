@@ -1,4 +1,4 @@
-from lesson11 import number
+from lesson10 import number
 # from lesson10 import create_text_line
 #
 # result = create_text_line(10, 100)
